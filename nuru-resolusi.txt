@@ -1,5 +1,5 @@
 Nuru Resolusi
 - Menguasai Fundamental Pemrograman
-- Membuat website untuk kelas
 - Membuat website dengan javascript
 - Belajar framework javascript
+- Freelance
