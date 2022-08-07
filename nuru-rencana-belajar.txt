@@ -2,4 +2,5 @@ Rencana Belajar Nuru
 - Belajar Javascript
 - Belajar Frameworknya (Semoga)
 - Belajar lainnya
-- Membuat Website Jurusan
+- Membuat Website Kelas
+
